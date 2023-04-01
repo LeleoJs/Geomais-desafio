@@ -1,0 +1,9 @@
+.SideBar{
+    background-color: aquamarine;
+}
+.List{
+    list-style: none;
+}
+.ListItem{
+    padding-left: 0;
+}

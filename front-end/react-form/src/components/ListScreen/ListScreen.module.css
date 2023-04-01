@@ -1,0 +1,15 @@
+.header{
+    color: black;
+    background-color: aquamarine;
+    font-size: x-large;
+}
+
+.content{
+    color: black;
+    font-size: medium;
+}
+
+.footer{
+    color: black;
+    font-size: medium;
+}

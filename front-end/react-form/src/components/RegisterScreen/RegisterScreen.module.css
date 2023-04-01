@@ -1,0 +1,23 @@
+.header{
+    color: black;
+    background-color: aquamarine;
+    font-size: x-large;
+}
+
+.content{
+    color: black;
+    font-size: medium;
+}
+
+.footer{
+    color: black;
+    font-size: medium;
+}
+
+.form{
+    width:"500px";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
