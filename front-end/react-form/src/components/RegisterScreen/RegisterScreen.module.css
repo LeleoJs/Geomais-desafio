@@ -7,17 +7,21 @@
 .content{
     color: black;
     font-size: medium;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer{
     color: black;
     font-size: medium;
+    background-color: aquamarine;
 }
 
 .form{
-    width:"500px";
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    width: 400px;
+    margin: 0 auto;
+    background-color: aquamarine;
+    border-radius: 15px;
+    padding: 25px 25px 0px 20px;
 }
